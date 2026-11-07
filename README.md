@@ -2,7 +2,7 @@
 
 Shell-scripting drills from my DevOps course year, kept as written. No framework, no Python crutch — just bash doing actual operations work: installing Tomcat across three OS generations, deploying websites to Apache, fanning commands out over SSH, taking validated backups.
 
-57 `.sh` files. Every non-trivial one below is real: the logs (`websetup/websetup.log` — 600 KB of a live run) are still in the repo.
+55 `.sh` files. Every non-trivial one below is real: the logs (`websetup/websetup.log` — 600 KB of a live run) are still in the repo.
 
 ## The fundamentals — `Bash_Scripts/`
 
